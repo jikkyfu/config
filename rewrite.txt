@@ -1,0 +1,2 @@
+nasfun.com 192.168.88.8
+home.nasfun.com 192.168.88.8
